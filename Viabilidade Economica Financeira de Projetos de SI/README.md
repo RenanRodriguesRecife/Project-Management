@@ -1,5 +1,8 @@
 2021:
 
+- preço é o que você paga, valor é o que você recebe
+
+
 - Valoração tradicional (O que o mercado faz usualmente a anos)
 
 
