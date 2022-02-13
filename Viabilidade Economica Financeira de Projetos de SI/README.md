@@ -22,3 +22,11 @@
 
 Captalista de risco:
  Alguém com muito dinheiro e sem ideia. QUe está procurando alguém com muita idéia e pouco dinheiro.
+
+
+
+
+
+ Referências
+ Corporate finance - ivo welch - http://book.ivo-welsh.info/read/
+ competitive stratagy options and games - benolt chavalier roignant and lenos trigeorgis
