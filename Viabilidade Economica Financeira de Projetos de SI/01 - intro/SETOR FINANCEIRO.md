@@ -14,3 +14,9 @@ Tipos básicos de opções:
 - Opção de Venda (Put): dá ao seu detentor o direito, mas não a obrigação, de vender um ativo em uma data futura por um um determinado preço de exercício (strike).
 
 Quando é chegado o dia do vencimento da opção, o comprador (ou detentor) da opção irá decidir se quer ou não adquirir o ativo subjacente pelo preço de exercício estabelecido no contrato. A parte vendedora (lançador da opção) terá a obrigação de realizar a venda do ativo pelo preço de exercício se esta for a vontade da parte compradora.
+
+As opções também se diferenciam com relação ao tipo de exercício. Os principais são:
+
+- Opções Europeias: o exercício só pode ser realizado no vencimento do contrato
+
+- Opções Americanas: O exercício pode ser realizado a qualquer momento até o vencimento do contrato.
