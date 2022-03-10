@@ -20,3 +20,15 @@ As opções também se diferenciam com relação ao tipo de exercício. Os princ
 - Opções Europeias: o exercício só pode ser realizado no vencimento do contrato
 
 - Opções Americanas: O exercício pode ser realizado a qualquer momento até o vencimento do contrato.
+
+
+Características de um contrato de opção:
+
+- Ativo Subjacente: é o ativo que será comprado/vendido ao se exercer a opção.
+- Maturidade: é o prazo entre a abertura do contrato (t=0) e o exercício da opção (preço de exercício);
+- Strike: estabelece o preço do ativo subjacente quando do exercício da opção (preço de exercício);
+- Comprador: é o detentor do direito de realizar o exercício da opção. Dizemos que esta parte possui uma posição comprada (long) no contrato de opção;
+- Vendedor: é a parte que será exercida pela contraparte. Dizemos que esta parte possui uma posição vendida (short) no contrato de opção;
+- Nocional: determina quantas unidades do ativo subjacente serão transacionadas;
+- Tipo de opção: determina qual é o direito do comprador (call ou put)
+- Tipo de exercício: determina em qual circunstância se dá a possibilidade de exercício da opção pelo comprador (exercício americano, europeu entre outros.
