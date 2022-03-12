@@ -32,3 +32,4 @@ Características de um contrato de opção:
 - Nocional: determina quantas unidades do ativo subjacente serão transacionadas;
 - Tipo de opção: determina qual é o direito do comprador (call ou put)
 - Tipo de exercício: determina em qual circunstância se dá a possibilidade de exercício da opção pelo comprador (exercício americano, europeu entre outros.
+
