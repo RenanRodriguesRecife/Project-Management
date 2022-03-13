@@ -14,4 +14,8 @@ Essa decisão é baseada nas variáveis:
 - prazo de pagamento dos recursos
 
 Avaliação:
-Os indicadores são associados a quantidade e qualidade da dívida
+Os indicadores são associados à quantidade e qualidade da dívida.
+- Quantidade: ver o tamanho do endividamento
+- Qualidade: O quanto de recursos de curto e longo prazo estão envolvidos na captação de recursos (divida)
+ 
+É sempre recomendado ter uma dívida no perfil de longo prazo (situação mais confortável). Pois é possível pagar o capital exigível ao longo do tempo à medida que você tem o retorno do seu ativo.
