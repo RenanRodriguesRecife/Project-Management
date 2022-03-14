@@ -7,6 +7,9 @@ Endividamento:
 Estrutura de capital:
 - Quando decidimos realizar um empreendimento uma das decisões importantes para tomar é onde adquirir recursos. Se pegamos dinheiro de capital de terceiros ou de capital próprio. Quando se faz essa decisão, estamos formando o que chamamos de estrutura de capital da empresa.
 
+
+ATIVO = PO + PL
+
 Variáveis:
 Essa decisão é baseada nas variáveis:
 - custo de cada uma das fontes
@@ -32,3 +35,6 @@ Dívida - Tudo aquilo que vai gerar juros
 Dívida CP - Dívida a curto prazo
 
 Dívida LP - Dívida a longo prazo 
+
+
+Dívida Total/PL - Para cada 1 real de patrimônio líquido quanto você tem de dívida (quanto você captou por meio de bancos, emissão de títulos...(qualquer coisa que gere juros - passivo oneroso))
