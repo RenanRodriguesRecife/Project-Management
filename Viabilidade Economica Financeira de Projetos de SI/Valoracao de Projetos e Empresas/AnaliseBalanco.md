@@ -37,4 +37,14 @@ Dívida CP - Dívida a curto prazo
 Dívida LP - Dívida a longo prazo 
 
 
+Quantidade de dívida:
+
 Dívida Total/PL - Para cada 1 real de patrimônio líquido quanto você tem de dívida (quanto você captou por meio de bancos, emissão de títulos...(qualquer coisa que gere juros - passivo oneroso))
+
+Dívida Total/Ativo - Para cada 1 real de ativo o quanto você tem de dívida
+
+Qualidade:
+
+Dívida de Curto Prazo/ Dívida Total - Quanto recursos de curto prazo você tem da dívida total.
+
+OBS: No brasil a taxa de juros são muito elevadas para dívida de curto prazo (que normalmente financia o nosso giro)
