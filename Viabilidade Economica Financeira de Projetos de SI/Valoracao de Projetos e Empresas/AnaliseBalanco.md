@@ -48,3 +48,8 @@ Qualidade:
 Dívida de Curto Prazo/ Dívida Total - Quanto recursos de curto prazo você tem da dívida total.
 
 OBS: No brasil a taxa de juros são muito elevadas para dívida de curto prazo (que normalmente financia o nosso giro)
+
+
+Análise:
+- Muitas vezes é padrão do setor ter um endividamento alto, ou as vezes é uma questão pontual da empresa (ela vai fazer um projeto novo demanda algum endividamento)
+- É preciso analisar a evolução ao longo do tempo, comparar com o setor e verificar como estão as receitas dessa empresa.
